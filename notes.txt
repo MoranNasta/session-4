@@ -1,0 +1,19 @@
+JSON : JavaScript Objet Notation
+
+this is just a lite and smart way to represent data
+
+{
+  "name":"Tya",
+  "age": 20,
+  "Uni":"LAU",
+  "address": 
+   {
+     "city":"Jbeil",
+     "street":"Main",
+     "Building": "56"    
+   },
+   "mobiles": ["03138876","7145454545","82123654"]
+}
+
+API Endpoint
+https://jsonplaceholder.typicode.com/users 
